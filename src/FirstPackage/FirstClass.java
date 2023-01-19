@@ -6,5 +6,7 @@ public class FirstClass {
         
         // add something
         System.out.println("i added something");
+
+        System.out.println("you are right ");
     }
 }
