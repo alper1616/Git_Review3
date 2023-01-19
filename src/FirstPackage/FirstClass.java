@@ -6,5 +6,11 @@ public class FirstClass {
         
         // add something
         System.out.println("i added something");
+
+        System.out.println("you are right ");
+        
+        // add two times
+
+        System.out.println("added two times");
     }
 }
