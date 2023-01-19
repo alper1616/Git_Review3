@@ -8,5 +8,7 @@ public class FirstClass {
         System.out.println("i added something");
 
         System.out.println("you are right ");
+        
+        // add two times
     }
 }
