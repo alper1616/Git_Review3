@@ -10,5 +10,7 @@ public class FirstClass {
         System.out.println("you are right ");
         
         // add two times
+
+        System.out.println("added two times");
     }
 }
