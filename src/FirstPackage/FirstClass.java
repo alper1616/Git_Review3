@@ -5,5 +5,6 @@ public class FirstClass {
         System.out.println("Alper ata bak ");
         
         // add something
+        System.out.println("i added something");
     }
 }
